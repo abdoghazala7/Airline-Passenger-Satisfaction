@@ -1,2 +1,2 @@
-# Airline-Passenger-SatisfactionAirline-Passenger-Satisfaction
+# Airline-Passenger-Satisfaction
 ML / Supervised / Classification
