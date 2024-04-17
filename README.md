@@ -2,11 +2,7 @@
 ## Context
 - Identify customer satisfaction is a key element for modern businesses as it can significantly contribute to a continuing effort of service quality improvement. In 
    order to meet customer expectations and achieve higher quality levels, airlines needs to develop a specific mechanism of passenger satisfaction measurement.
-  
-- This is a classification supervised machine learning project, Predicting Satisfaction of Airline Passengers.
+- This dataset is obtained from Kaggle
 
-# 2- About the Dataset :
-This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can you predict passenger satisfaction?
-
-This dataset is obtained from Kaggle: `Airline Passenger Satisfaction`
-
+# 2- Project Overview :
+This is a classification-supervised machine learning project Predicting Satisfaction of Airline Passengers, I Conducted an in-depth analysis of airline passenger satisfaction using a dataset containing passenger feedback and flight-related information, I Utilized exploratory data analysis (EDA) techniques, I used in this project many algorithms that I learned from courses and "Hands-On Machine Learning" book, such as logistic regression, SVC or ensemble models to build predictive models, Evaluated model performance using appropriate metrics and techniques, such as accuracy, precision, recall, and ROC curves, I conducted hyperparameter tuning to improve the accuracy, At the end, I have created a pipeline incorporating the previous processors and best model.
